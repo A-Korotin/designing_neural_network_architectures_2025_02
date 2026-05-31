@@ -1,0 +1,6 @@
+.venv
+.git
+**/runs
+**/wild_test
+**/yolo_dataset
+**/crnn_checkpoints
